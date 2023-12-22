@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(131, 131, 89);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Main-Containers{
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+}
+
+.extra-Container{
+    margin: 60px;
+    padding: 0cm;
+    background-color: rgb(131, 131, 89);
+}
+.Main-Containers h1{
+    font-size: 100px;
+    text-align: center;
+    color: rgb(250, 221, 221);
+}
+
+.Secundario-Containers{
+    padding: 40px;
+}
+
+.Secundario-Containers h2{
+    font-size: 60px;
+    padding-left: 300px;
+    color: blue;
+}
+
+.Secundario-Containers h3{
+    font-size: 40px;
+}
+
+.Secundario-Containers img{
+    margin: 5px;
+    border-radius: 10%;
+    width: 700px;
+}
+
+a{
+    font-size: 60px;
+    color: brown;
+    padding-left: 200px;
+}

@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Main-Container{
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: rgb(124, 54, 33);
+}
+
+.Main-Container h1{
+    text-align: center;
+    color: blanchedalmond;
+    font-size: 4cm;
+}
+
+.Main-Container img{
+    margin: 30px;
+    border-radius: 15%;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Secundario-Container{
+    background-color: beige;
+    color: black;
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.Tercer-Container{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+h2{
+    font-size: 2cm;
+}
+
+p{
+    font-size: 30px;
+}
+.Container-images{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Container-images img{
+    margin: 10px;
+    border-radius: 10%;
+    width: 500px;
+}
+.Container-Vinculos{
+    display: flex;
+    justify-content: center;
+}
+
+.Container-Vinculos a{
+    color: rgb(243, 215, 215);
+    font-size: 80px;
+}

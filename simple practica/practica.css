@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(38, 241, 38);
+    max-width: 1300px;
+    padding: 12px;
+    display: flex;
+}
+
+.spider{
+    background-color: gray;
+    border: 3px solid black;
+    margin: 1px;
+    align-items: auto;
+    padding: 40px;
+}
+
+.spider h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 100px;
+    color: orangered;
+    text-align: center;
+}
+
+.spider p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 67px;
+    color: rgb(206, 188, 188);
+    text-align: center;
+}
+
+.cross{
+    padding: 3cm;
+    background-color: rgb(112, 230, 112);
+    text-align: left;
+    color: black;
+}
+
+.cross h2{
+    font-size: 40px;
+    color: orangered;
+    font-family: monospace;
+}
+
+.cross p{
+    text-align: left;
+    color: black;
+}
+
+a{
+    text-align: justify;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.spider a{
+    padding-left: 100px;
+}
+
+.cross img{
+    border-radius: 8%;
+    width: 300px;
+    align-items: center;
+    display: flex;
+    padding: 3px;
+}
